@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/CC">
+        <file>images/btn_donateCC_LG.gif</file>
+        <file>images/ccViewXneg.png</file>
+        <file>images/ccViewXpos.png</file>
+        <file>images/ccViewYneg.png</file>
+        <file>images/ccViewYpos.png</file>
+        <file>images/ccViewZneg.png</file>
+        <file>images/ccViewZpos.png</file>
+        <file>images/cea_logo.jpg</file>
+        <file>images/cea_logo_small.jpg</file>
+        <file>images/gim.jpg</file>
+        <file>images/qBroom.png</file>
+        <file>images/warning.png</file>
+    </qresource>
+    <qresource prefix="/shader">
+        <file>shader/basic_lighting.frag</file>
+        <file>shader/basic_lighting.vert</file>
+        <file>shader/colortriangle.frag</file>
+        <file>shader/colortriangle.vert</file>
+        <file>shader/lamp.frag</file>
+        <file>shader/lamp.vert</file>
+        <file>shader/lighting_maps.frag</file>
+        <file>shader/lighting_maps.vert</file>
+        <file>shader/textures.frag</file>
+        <file>shader/textures.vert</file>
+        <file>shader/triangle.frag</file>
+        <file>shader/triangle.vert</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>image/awesomeface.png</file>
+        <file>image/container.jpg</file>
+        <file>image/container2.png</file>
+        <file>image/container2_specular.png</file>
+        <file>image/wall.jpg</file>
+    </qresource>
+</RCC>
